@@ -9,14 +9,8 @@ La parabola è il luogo geometrico dei punti equidistanti da
 L'equazione di una parabola con l'asse parallelo all'asse delle Y è
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
   <img src="https://latex.codecogs.com/svg.latex?y%3Dax%5E2%2Bbx%2Bc">
 </p>
-![img](https://latex.codecogs.com/svg.latex?y%3Dax%5E2%2Bbx%2Bc).
 
 ## Ellisse
 
