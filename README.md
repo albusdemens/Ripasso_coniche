@@ -17,7 +17,7 @@ L'equazione di una parabola con l'asse parallelo all'asse delle Y è:
 L'equazione di una parabola con l'asse parallelo all'asse delle X è: 
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?x%3Dax%5E2%2Bby%2Bc">
+  <img src="https://latex.codecogs.com/svg.latex?x%3Day%5E2%2Bby%2Bc">
 </p>
 
 ## Ellisse
