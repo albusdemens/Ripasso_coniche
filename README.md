@@ -22,6 +22,8 @@ L'equazione di una parabola con l'asse parallelo all'asse delle X è:
   <img src="https://latex.codecogs.com/svg.latex?x%3Day%5E2%2Bby%2Bc">
 </p>
 
+Vuoi disegnare una parabola con asse paralello all'asse Y o all'asse X? Prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script in Python!
+
 ### Intersezioni retta-parabola
 
 Data una parabola ed una retta con equazione *y = mx+q*, per trovare gli eventuali punti di intersezione si segue il seguente procedimento:
