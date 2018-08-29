@@ -17,7 +17,8 @@ if int(var) == 1:
 
     # Disegniamo la parabola
     fig, ax = plt.subplots()
-    ax.plot(y,x)
+    ax.plot(x,y)
+    plt.title('Parabola con asse parallelo ad X')
     plt.xlabel('X')
     plt.ylabel('Y')
     plt.grid(True)
@@ -27,16 +28,17 @@ if int(var) == 2:
     var_a = input("Hai scelto una parabola con equazione del tipo \n y = a*x^2 + bx + c. Scegli un valore per a: \n")
     var_b = input("Un valore per b: \n")
     var_c = input("Un valore per c: \n")
-    
+
     # Creiamo una serie di valori per x, che è la nosra variabile indipendente
     x = np.linspace(-10, 10, 1000)
-    
+
     # Calcoliamo il valore di y per ogni elemento del vettore x
-    y = int(var_a)*(x**2) + int(var_b)*y i int(var_c)
-    
+    y = int(var_a)*(x**2) + int(var_b)*x + int(var_c)
+
     # Disegnamo la parabola
-    fig, ax = plt.suplots()
-    ax.plot(y,x)
+    fig, ax = plt.subplots()
+    ax.plot(x,y)
+    plt.title('Parabola con asse parallelo ad X')
     plt.xlabel('X')
     plt.ylabel('Y')
     plt.grid(True)
