@@ -31,12 +31,12 @@ Data una parabola ed una retta con equazione *y = mx+q*, per trovare gli eventua
 2. Risolvere il sistema di secondo grado così formato e ricavare gli eventuali valori delle incognite x ed y:
 
     A. Se il sistema risulta *impossibile*, quindi non è possibile ricavare né il valore di x né quello di y, allora vuol dire         che la retta e la parabola non hanno punti in comune: si dice che la retta è *esterna* alla parabola;
-    
+
     B. Se il sistema ha *due soluzioni coincidenti*, cioè *una soluzione doppia*, la retta e la parabola sono *tangenti*;
-    
-    C. Se il sistema ha *due soluzioni distinte*, la retta e la parabola sono *secanti*; 
-    
-3. Eventualemente, rappresentare graficamente la soluzione.    
+
+    C. Se il sistema ha *due soluzioni distinte*, la retta e la parabola sono *secanti*;
+
+3. Eventualmente, rappresentare graficamente la soluzione.    
 
 
 ### Determinazione della retta tangente
