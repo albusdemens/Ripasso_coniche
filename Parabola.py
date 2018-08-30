@@ -43,3 +43,5 @@ if int(var) == 2:
     plt.ylabel('Y')
     plt.grid(True)
     plt.show()
+
+    
