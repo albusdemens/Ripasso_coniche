@@ -6,8 +6,13 @@ Le coniche sono quattro curve determinate dall'intersezione di un piano con un u
 
 ### Risoluzione di un'equazione di secondo grado
 
-Perchè ci serve?
-Il delta e come lo si usa
+Forma canonica dell'equazione di secondo grado:
+
+![img](latex.codecogs.com/svg.latex?y+%3D+ax%5E2%2Bbx%2Bc)
+
+*Perchè ci serve?*
+
+![img](latex.codecogs.com/svg.latex?%5CDelta+%3D+%5Cfrac%7B%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 ## Parabola
 
