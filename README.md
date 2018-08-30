@@ -13,7 +13,9 @@ Il delta e come lo si usa
 
 ### Introduzione
 
-![](Figure_1.png?raw=true)
+<img src="Figure_1.png" width="200">
+
+[//]: # ![](Figure_1.png?raw=true)
 
 La parabola è il luogo geometrico dei punti equidistanti da un punto fisso, detto _fuoco_, e da una retta data, detta _direttrice_.
 
