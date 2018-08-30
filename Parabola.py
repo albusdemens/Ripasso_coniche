@@ -38,10 +38,14 @@ if int(var) == 2:
     # Disegnamo la parabola
     fig, ax = plt.subplots()
     ax.plot(x,y)
-    plt.title('Parabola con asse parallelo ad X')
+    plt.title('Parabola con asse parallelo ad Y')
     plt.xlabel('X')
     plt.ylabel('Y')
+
+    # Uncommento to plot F, V and d
+    # plt.scatter(-0.5, -3.25, facecolor="b", marker="o")
+    # plt.scatter(-0.5, -2.25, facecolor="b", marker="o")
+    # plt.axhline(y=-4.25, color='r', linestyle='-')
+
     plt.grid(True)
     plt.show()
-
-    

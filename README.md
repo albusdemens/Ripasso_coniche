@@ -13,6 +13,8 @@ Il delta e come lo si usa
 
 ### Introduzione
 
+![](Figure_1.png?raw=true)
+
 La parabola è il luogo geometrico dei punti equidistanti da un punto fisso, detto _fuoco_, e da una retta data, detta _direttrice_.
 
 L'equazione di una parabola con l'asse parallelo all'asse delle Y è:
