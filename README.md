@@ -12,11 +12,21 @@ Forma canonica dell'equazione di secondo grado:
   <img src="https://latex.codecogs.com/svg.latex?y%3Dax%5E2%2Bbx%2Bc">
 </p>
 
-*Perchè ci serve?*
+*Perchè ci serve?* Il *discriminante* di un'equazione di secondo grado (che si indica con la lettera greca maiuscola *delta*), ci permette di distinguere, a seconda del valore che assume, se l'equazione di secondo grado data ha o meno soluzioni e, in caso affermativo, di riconoscere se esse sono distinte o coincidenti. 
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Cfrac%7B%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D">
 </p>
+
+Una volta calcolato il valore del discriminante, dobbiamo distinguere tre casi:
+  1. <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3E0">;
+    In questo caso esiste la radice quadrata di <img src="https://latex.codecogs.com/svg.latex?%5CDelt">, dunque in questo caso l'equazione di secondo grado ha *due soluzioni distinte*:
+    <p align="center">
+  ...
+
+
+
+Quando più avanti parleremo di intersezioni o di sistemi di secondo grado *impossibili* o *con soluzioni coincidenti*, sarà attraverso il calcolo del *delta* che potremmo verificare se e come una retta, ad esempio, si interseca con una parabola. 
 
 ## Parabola
 
