@@ -20,12 +20,21 @@ Forma canonica dell'equazione di secondo grado:
 
 Una volta calcolato il valore del discriminante, dobbiamo distinguere tre casi:
   1. <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3E0">;
-    In questo caso esiste la radice quadrata di <img src="https://latex.codecogs.com/svg.latex?%5CDelt">, dunque in questo caso l'equazione di secondo grado ha *due soluzioni distinte*:
+    In questo caso esiste la radice quadrata di <img src="https://latex.codecogs.com/svg.latex?%5CDelt">, dunque l'equazione di secondo grado ha *due soluzioni distinte*:
     <p align="center">
-  ...
+      <img src="https://latex.codecogs.com/svg.latex?x_%7B1%2C2%7D+%3D+%5Cfrac%7B-b+%5Cpm+%5Csqrt%7Bb%5E2+-+4ac%7D%7D%7B2a%7D">
+  </p>
+  
+  2. <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3Db%5E2-4ac%3D0">;
+    In questo caso, la radice quadrata del discriminante è uguale a zero, e l'equazione di secondo grado avrà *due soluzioni coincidenti*:
+    <p align="center">
+      <img src="https://latex.codecogs.com/svg.latex?x_%7B1%7D%3Dx_%7B2%7D%3D-%5Cfrac%7Bb%7D%7B2a%7D">;
+  </p>
+  
+  3. <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3C0">;
+    In questo caso l'equazione è *impossibile*, perché qualsiasi numero reale elevato al quadrato risulterà maggiore o uguale a zero e non potrà essere minore del secondo membro, che è negativo.
 
-
-
+</p>
 Quando più avanti parleremo di intersezioni o di sistemi di secondo grado *impossibili* o *con soluzioni coincidenti*, sarà attraverso il calcolo del *delta* che potremmo verificare se e come una retta, ad esempio, si interseca con una parabola. 
 
 ## Parabola
