@@ -22,7 +22,7 @@ Una volta calcolato il valore del discriminante, dobbiamo distinguere tre casi:
   1. <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3E0">;
     In questo caso esiste la radice quadrata di <img src="https://latex.codecogs.com/svg.latex?%5CDelt">, dunque l'equazione di secondo grado ha *due soluzioni distinte*:
     <p align="center">
-      <img src="https://latex.codecogs.com/svg.latex?x_%7B1%2C2%7D+%3D+%5Cfrac%7B-b+%5Cpm+%5Csqrt%7Bb%5E2+-+4ac%7D%7D%7B2a%7D">
+      <img src="https://latex.codecogs.com/svg.latex?x_%7B1%2C2%7D%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D">
   </p>
   
   2. <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3Db%5E2-4ac%3D0">;
