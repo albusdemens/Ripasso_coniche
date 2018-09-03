@@ -15,7 +15,7 @@ Forma canonica dell'equazione di secondo grado:
 *Perchè ci serve?* Il *discriminante* di un'equazione di secondo grado (che si indica con la lettera greca maiuscola *delta*), ci permette di distinguere, a seconda del valore che assume, se l'equazione di secondo grado data ha o meno soluzioni e, in caso affermativo, di riconoscere se esse sono distinte o coincidenti. La formula per calcolare il discriminante è:
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?%5Csqrt%7Bb%5E2-4ac%7D">
+  <img src="https://latex.codecogs.com/svg.latex?%5CDelta+%3D+%5Csqrt%7Bb%5E2-4ac%7D">
 </p>
 
 Una volta calcolato il valore del discriminante, dobbiamo distinguere tre casi:
