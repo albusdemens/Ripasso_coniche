@@ -10,7 +10,7 @@ if int(var) == 1:
     var_c = input("Un valore per c: \n")
 
     # creiamo una serie di valori per y, che è la nostra variabile indipendente
-    y = np.linspace(-10, 10, 1000)
+    y = np.linspace(-10, 10, 20)
 
     # calculate the x value for each element of the y vector
     x = int(var_a)*(y**2) + int(var_b)*y + int(var_c)
@@ -31,7 +31,7 @@ if int(var) == 2:
     var_c = input("Un valore per c: \n")
 
     # Creiamo una serie di valori per x, che è la nosra variabile indipendente
-    x = np.linspace(-10, 10, 1000)
+    x = np.linspace(-10, 10, 20)
 
     # Calcoliamo il valore di y per ogni elemento del vettore x
     y = int(var_a)*(x**2) + int(var_b)*x + int(var_c)
