@@ -56,6 +56,24 @@ L'equazione di una parabola con l'asse parallelo all'asse delle X è:
   <img src="https://latex.codecogs.com/svg.latex?x%3Day%5E2%2Bby%2Bc">
 </p>
 
+Per disegnare una parabola, è importante considerare altri tre elementi: il *vertice*, il *fuoco* e la *direttrice*.
+
+Le coordinate del *vertice* si possono calcolare in questo modo:
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?V%28-%5Cfrac%7Bb%7D%7B2a%7D%3B-%5Cfrac%7B%5CDelta%7D%7B4a%7D%29">
+</p>
+
+Le coordinate del *fuoco* si possono calcolare in questo modo:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?V%28-%5Cfrac%7Bb%7D%7B2a%7D%3B%5Cfrac%7B1-%5CDelta%7D%7B4a%7D%29">
+</p>
+
+Infine, l'equazione della *direttrice* è:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?y%3D-%5Cfrac%7B1%2B%5CDelta%7D%7B4a%7D">
+</p>
+
 Vuoi disegnare una parabola con asse paralello all'asse Y o all'asse X? Prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script in Python!
 
 Con [quest'altro script](https://github.com/albusdemens/Ripasso_coniche/blob/master/Intersezione_parabola_retta.py) puoi disegnare l'intersezione di una parabola con un segmento.
