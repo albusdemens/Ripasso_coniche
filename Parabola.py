@@ -21,7 +21,7 @@ if int(var) == 1:
     plt.title('Parabola con asse parallelo ad X')
     plt.xlabel('X')
     plt.ylabel('Y')
-    plt.gca().set_aspect('equal', adjustable='box') # Stessa scala asse X ed asse Y
+    #plt.gca().set_aspect('equal', adjustable='box') # Stessa scala asse X ed asse Y
     plt.grid(True)
     plt.show()
 
@@ -42,7 +42,7 @@ if int(var) == 2:
     plt.title('Parabola con asse parallelo ad Y')
     plt.xlabel('X')
     plt.ylabel('Y')
-    plt.gca().set_aspect('equal', adjustable='box') # Stessa scala asse X ed asse Y
+    #plt.gca().set_aspect('equal', adjustable='box') # Stessa scala asse X ed asse Y
 
     # Uncommento to plot F, V and d
     # plt.scatter(-0.5, -3.25, facecolor="b", marker="o")
