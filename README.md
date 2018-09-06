@@ -99,6 +99,17 @@ Data una parabola ed una retta con equazione *y = mx+q*, per trovare gli eventua
 
 ## Ellisse
 
+### Introduzione
+
+L'ellisse è il luogo geometrico dei punti di un piano per i quali è costante la somma delle distanze da due punti fissi, detti _fuochi_.
+
+Essendo i due fuochi dei punti fissi, la loro distanza, detta **distanza focale**, è nota.
+
+L'equazione dell'ellisse è:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?%5Cfrac%7Bx%5E2%7D%7Ba%5E2%7D%2B%5Cfrac%7By%5E2%7D%7Bb%5E2%7D%3D1">
+</p>
+
 ## Circonferenza
 
 ## Iperbole
