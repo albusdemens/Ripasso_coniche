@@ -58,7 +58,7 @@ L'equazione di una parabola con l'asse parallelo all'asse delle X è:
 
 Per disegnare una parabola, è importante considerare altri tre elementi: il *vertice*, il *fuoco* e la *direttrice*.
 
-Le coordinate del *vertice* si possono calcolare in questo modo:
+Per una parabola con asse parallelo ad Y, le coordinate del *vertice* si possono calcolare in questo modo:
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?V%28-%5Cfrac%7Bb%7D%7B2a%7D%3B-%5Cfrac%7B%5CDelta%7D%7B4a%7D%29">
@@ -66,13 +66,15 @@ Le coordinate del *vertice* si possono calcolare in questo modo:
 
 Le coordinate del *fuoco* si possono calcolare in questo modo:
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?V%28-%5Cfrac%7Bb%7D%7B2a%7D%3B%5Cfrac%7B1-%5CDelta%7D%7B4a%7D%29">
+  <img src="https://latex.codecogs.com/svg.latex?F%28-%5Cfrac%7Bb%7D%7B2a%7D%3B%5Cfrac%7B1-%5CDelta%7D%7B4a%7D%29">
 </p>
 
 Infine, l'equazione della *direttrice* è:
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?y%3D-%5Cfrac%7B1%2B%5CDelta%7D%7B4a%7D">
 </p>
+
+Nel caso di parabola con asse parallelo ad X, le coordinate di fuoco e vertice hanno le componenti invertite.
 
 Vuoi disegnare una parabola con asse paralello all'asse Y o all'asse X? Prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script in Python!
 
@@ -101,7 +103,7 @@ Una retta si dice tangente ad una curva quando *tocca ma non interseca* la curva
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?y-y_A%3Dm%28x-x_A%29">
 </p>
-2. Messo a sistema l'equazione generia della retta con l'equazione della parabola, si risolve il sistema ponendo <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3C0">.
+2. Messo a sistema l'equazione generia della retta con l'equazione della parabola, si risolve il sistema ponendo <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3C0">
 
 ## Ellisse
 
