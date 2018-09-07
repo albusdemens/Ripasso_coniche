@@ -31,7 +31,7 @@ if int(var) == 2:
     var_c = input("Un valore per c: \n")
 
     # Creiamo una serie di valori per x, che è la nosra variabile indipendente
-    x = np.linspace(-10, 10, 20)
+    x = np.linspace(-3, 3, 20)
 
     # Calcoliamo il valore di y per ogni elemento del vettore x
     y = int(var_a)*(x**2) + int(var_b)*x + int(var_c)

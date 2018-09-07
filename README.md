@@ -97,11 +97,11 @@ Data una parabola ed una retta con equazione *y = mx+q*, per trovare gli eventua
 
 Una retta si dice tangente ad una curva quando *tocca ma non interseca* la curva stessa. Dunque, per calcolare l'equazione di una retta passante per un punto e tangente ad una parabola, la procedura è la seguente:
 
-    1. Dato il punto A, di coordinate <img src="https://latex.codecogs.com/svg.latex?%28x_A%2C+y_A%29">, si calcola l'equazione generale della retta passante per A, ossia
-    <p align="center">
-      <img src="https://latex.codecogs.com/svg.latex?y-y_A%3Dm%28x-x_A%29">
-    </p>
-    2. Messo a sistema l'equazione generia della retta con l'equazione della parabola, si risolve il sistema ponendo <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3C0">.
+1. Dato il punto A, di coordinate <img src="https://latex.codecogs.com/svg.latex?%28x_A%2C+y_A%29">, si calcola l'equazione generale della retta passante per A, ossia
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?y-y_A%3Dm%28x-x_A%29">
+</p>
+2. Messo a sistema l'equazione generia della retta con l'equazione della parabola, si risolve il sistema ponendo <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3C0">.
 
 ## Ellisse
 
