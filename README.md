@@ -9,7 +9,7 @@ Le coniche sono quattro curve determinate dall'intersezione di un piano con un u
 Forma canonica dell'equazione di secondo grado:
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?y%3Dax%5E2%2Bbx%2Bc">
+  <img src="https://latex.codecogs.com/svg.latex?ax%5E2%2Bbx%2Bc%3D0">
 </p>
 
 *Perchè ci serve?* Il *discriminante* di un'equazione di secondo grado (che si indica con la lettera greca maiuscola *delta*), ci permette di distinguere se l'equazione di secondo grado data ha o meno soluzioni e, in caso affermativo, di riconoscere se esse sono distinte o coincidenti. La formula del discriminante è:
