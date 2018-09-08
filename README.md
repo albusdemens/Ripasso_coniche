@@ -111,7 +111,7 @@ Una retta si dice tangente ad una curva quando *tocca ma non interseca* la curva
 
 ### Introduzione
 
-L'ellisse è il luogo geometrico dei punti di un piano per i quali è costante la somma delle distanze da due punti fissi, detti _fuochi_.
+L'ellisse è il luogo geometrico dei punti di un piano per i quali è costante la somma delle distanze da due punti fissi, detti _fuochi_ (F1 ed F2 nella figura).
 
 Essendo i due fuochi dei punti fissi, la distanza tra loro, detta **distanza focale**, è nota.
 
