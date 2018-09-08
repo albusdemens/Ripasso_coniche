@@ -107,6 +107,8 @@ Una retta si dice tangente ad una curva quando *tocca ma non interseca* la curva
 
 ## Ellisse
 
+<img src="Ellisse.png" width="800">
+
 ### Introduzione
 
 L'ellisse è il luogo geometrico dei punti di un piano per i quali è costante la somma delle distanze da due punti fissi, detti _fuochi_.
@@ -120,10 +122,12 @@ L'equazione dell'ellisse è:
 
 Le formule per calcolare la posizione dei fuochi di un'ellisse sono:
 
-Per disegnare un'ellisse dati i fuochi e la distanza dei punti della curva da questi, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script.
+Per disegnare un'ellisse dati i fuochi e la distanza dei punti della curva da questi, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Ellisse.py) script.
 
 ## Circonferenza
 
-Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script. 
+<img src="Crf.png" width="800">
+
+Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Circonferenza.py) script.
 
 ## Iperbole
