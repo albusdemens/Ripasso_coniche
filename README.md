@@ -120,6 +120,10 @@ L'equazione dell'ellisse è:
 
 Le formule per calcolare la posizione dei fuochi di un'ellisse sono:
 
+Per disegnare un'ellisse dati i fuochi e la distanza dei punti della curva da questi, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script.
+
 ## Circonferenza
+
+Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Parabola.py) script. 
 
 ## Iperbole
