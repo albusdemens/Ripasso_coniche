@@ -121,12 +121,40 @@ L'equazione dell'ellisse è:
 </p>
 
 Le formule per calcolare la posizione dei fuochi di un'ellisse sono:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?F_%7B1%7D%28-%5Csqrt%7Ba%5E2-b%5E2%7D%3B0%29">
+</p>
+e:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?F_%7B2%7D%28%5Csqrt%7Ba%5E2-b%5E2%7D%3B0%29">
+</p>
 
 Per disegnare un'ellisse dati i fuochi e la distanza dei punti della curva da questi, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Ellisse.py) script.
 
 ## Circonferenza
 
 <img src="Crf.png" width="700">
+
+### Introduzione
+
+La circonferenza è il luogo dei punti di un piano che hanno la stessa distanza (il _raggio_) da un punto fisso (il _centro_).
+
+Ha infiniti raggi tutti tra loro congruenti e quindi della stessa lunghezza: per questo motivo si parla di **raggio** della circonferenza. 
+
+L'equazione della circonferenza è:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?x%5E2%2By%5E2%2Bax%2Bby%2Bc%3D0">
+</p>
+
+Il **centro** della circonferenza ha queste coordinate:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?C%28-%5Cfrac%7Ba%7D%7B2%7D%3B-%5Cfrac%7Bb%7D%7B2%7D%29">
+</p>
+
+Il raggio, invece, si ricava in questo modo:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?r%3D%5Csqrt%7B%28-%5Cfrac%7Ba%7D%7B2%7D%29%5E2%2B%28-%5Cfrac%7Bb%7D%7B2%7D%29%5E2-c%7D">
+</p>
 
 Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Circonferenza.py) script.
 
