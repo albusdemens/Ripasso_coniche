@@ -103,7 +103,7 @@ Una retta si dice tangente ad una curva quando *tocca ma non interseca* la curva
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?y-y_A%3Dm%28x-x_A%29">
 </p>
-2. Messo a sistema l'equazione generia della retta con l'equazione della parabola, si risolve il sistema ponendo <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3C0">
+2. Messo a sistema l'equazione generia della retta con l'equazione della parabola, si risolve il sistema ponendo <img src="https://latex.codecogs.com/svg.latex?%5CDelta%3D%5Csqrt%7Bb%5E2-4ac%7D%3D0">
 
 ## Ellisse
 
