@@ -2,7 +2,7 @@
 
 ##### Filippo Tonietto & Alberto Cereser
 
-Le coniche sono quattro curve determinate dall'intersezione di un piano con un un cono. In questo modulo verranno presentate parabola, ellisse, circonferenza ed iperbole sia da un punto di vista teorico che tramite esercizi e grafici.
+Le coniche sono quattro curve determinate dall'intersezione di un piano con una superficie conica. In questo modulo verranno presentate parabola, ellisse, circonferenza ed iperbole sia da un punto di vista teorico che tramite esercizi e grafici.
 
 ### Risoluzione di un'equazione di secondo grado
 
@@ -58,13 +58,13 @@ L'equazione di una parabola con l'asse parallelo all'asse delle X è:
 
 Per disegnare una parabola, è importante considerare altri tre elementi: il *vertice*, il *fuoco* e la *direttrice*.
 
-Per una parabola con asse parallelo ad Y, le coordinate del *vertice* si possono calcolare in questo modo:
+Per una parabola con asse parallelo ad Y, le coordinate del *vertice* sono date da:
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?V%28-%5Cfrac%7Bb%7D%7B2a%7D%3B-%5Cfrac%7B%5CDelta%7D%7B4a%7D%29">
 </p>
 
-Le coordinate del *fuoco* si possono calcolare in questo modo:
+Le coordinate del *fuoco* sono date da:
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?F%28-%5Cfrac%7Bb%7D%7B2a%7D%3B%5Cfrac%7B1-%5CDelta%7D%7B4a%7D%29">
 </p>
@@ -86,7 +86,7 @@ Data una parabola ed una retta con equazione *y = mx+q*, per trovare gli eventua
 1. Mettere a sistema l'equazione della retta e l'equazione della parabola;
 2. Risolvere il sistema di secondo grado così formato e ricavare gli eventuali valori delle incognite x ed y:
 
-    A. Se il sistema risulta *impossibile*, quindi non è possibile ricavare né il valore di x né quello di y, allora vuol dire         che la retta e la parabola non hanno punti in comune: si dice che la retta è *esterna* alla parabola;
+    A. Se il sistema risulta *impossibile*, quindi non è possibile ricavare né il valore di x né quello di y, allora la retta e la parabola non hanno punti in comune: si dice che la retta è *esterna* alla parabola;
 
     B. Se il sistema ha *due soluzioni coincidenti*, cioè *una soluzione doppia*, la retta e la parabola sono *tangenti*;
 
@@ -139,7 +139,7 @@ Per disegnare un'ellisse dati i fuochi e la distanza dei punti della curva da qu
 
 La circonferenza è il luogo dei punti di un piano che hanno la stessa distanza (il _raggio_) da un punto fisso (il _centro_).
 
-Ha infiniti raggi tutti tra loro congruenti e quindi della stessa lunghezza: per questo motivo si parla di **raggio** della circonferenza. 
+Ha infiniti raggi tutti tra loro congruenti e quindi della stessa lunghezza: per questo motivo si parla di **raggio** della circonferenza.
 
 L'equazione della circonferenza è:
 <p align="center">
