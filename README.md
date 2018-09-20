@@ -159,3 +159,29 @@ Il raggio, invece, si ricava in questo modo:
 Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Circonferenza.py) script.
 
 ## Iperbole
+
+### Introduzione
+
+L'iperbole è il luogo dei punti del piano per i quali la differenza, in valore assoluto, delle distanze da due punti fissi detti _fuochi_ è costante.
+
+L'equazione dell'iperbole i cui assi di simmetria coincidono con gli assi cartesiani è:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?%5Cfrac%7Bx%5E2%7D%7Ba%5E2%7D-%5Cfrac%7By%5E2%7D%7Bb%5E2%7D%3D%5Cpm1">
+</p>
+
+Quando il secondo membro dell'equazione è uguale a 1, i fuochi sono sull'asse delle x, mentre quando è uguale a -1 i fuochi sono sull'asse delle y.
+
+Per un'iperbole con i fuochi sull'asse delle x, le coordinate dei vertici sono:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?V%28%5Cpm%7Ba%7D%3B0%29">
+</p>
+
+E le coordinate dei fuochi sono:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?F%28%5Cpm%7Bc%7D%3B0%29">
+</p>
+
+E le equazioni delle bisettrici sono:
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?y%3D%5Cpm%5Cfrac%7Bb%7D%7Ba%7Dx">
+</p>
