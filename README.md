@@ -166,7 +166,7 @@ Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](http
 
 L'iperbole è il luogo dei punti del piano per i quali la differenza, in valore assoluto, delle distanze da due punti fissi detti _fuochi_ è costante.
 
-L'equazione dell'iperbole i cui assi di simmetria coincidono con gli assi cartesiani è:
+L'equazione dell'iperbole i cui assi di simmetria coincidono con gli assi cartesiani (come in figura) è:
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?%5Cfrac%7Bx%5E2%7D%7Ba%5E2%7D-%5Cfrac%7By%5E2%7D%7Bb%5E2%7D%3D%5Cpm1">
 </p>
