@@ -160,7 +160,7 @@ Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](http
 
 ## Iperbole
 
-<img src="Iperbole.png" width="600">
+<img src="Iperbol.png" width="600">
 
 ### Introduzione
 
