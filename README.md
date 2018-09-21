@@ -38,9 +38,9 @@ Quando più avanti parleremo di intersezioni o di sistemi di secondo grado *impo
 
 ## Parabola
 
-### Introduzione
+<img src="Figure_1.png" width="600">
 
-<img src="Figure_1.png" width="700">
+### Introduzione
 
 La parabola è il luogo geometrico dei punti equidistanti da un punto fisso, detto _fuoco_, e da una retta data, detta _direttrice_.
 
@@ -107,7 +107,7 @@ Una retta si dice tangente ad una curva quando *tocca ma non interseca* la curva
 
 ## Ellisse
 
-<img src="Ellisse.png" width="700">
+<img src="Ellisse.png" width="600">
 
 ### Introduzione
 
@@ -133,7 +133,7 @@ Per disegnare un'ellisse dati i fuochi e la distanza dei punti della curva da qu
 
 ## Circonferenza
 
-<img src="Crf.png" width="700">
+<img src="Crf.png" width="600">
 
 ### Introduzione
 
@@ -159,6 +159,8 @@ Il raggio, invece, si ricava in questo modo:
 Per disegnare una circonferenza dato il centro ed il raggio, prova [questo](https://github.com/albusdemens/Ripasso_coniche/blob/master/Circonferenza.py) script.
 
 ## Iperbole
+
+<img src="Iperbole.png" width="600">
 
 ### Introduzione
 
