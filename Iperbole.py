@@ -1,6 +1,9 @@
 # Questo script disegna un'iperbole partendo dai valori di a e b
 # ATTENZIONE: il grafico funziona per valori piccoli di a e b. Per valori
 # elevati, può essere necessario ridefinire gli intervalli di x e y (l 15, 16)
+
+# Ispirato da http://blog.mmast.net/conics-matplotlib
+
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
